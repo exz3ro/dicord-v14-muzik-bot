@@ -1,12 +1,12 @@
 {
-  "name": "v14music-emirhan",
+  "name": "v14music-eren",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Emirhan Sarac",
+  "author": "Eren Şenel",
   "license": "MIT",
   "dependencies": {
     "@discordjs/voice": "^0.7.5",
