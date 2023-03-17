@@ -32,4 +32,4 @@ cd discord-v14-muzik-bot
 npm install
 ```
 
-Kurulum tamamlandıktan sonra botu başlatmak için `node .` kullanabilirsiniz. veya `Start.bat`ı çalıştırın!
+Kurulum tamamlandıktan sonra botu başlatmak için `node .` kullanabilirsiniz.
